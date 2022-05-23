@@ -4,7 +4,7 @@ American Chauhan - Machine Learning Model Building and API integration</br>
 Rishabh Singla - Front End Development with JavaScript</br>
 Ayush Tomar - Front End Improvement and flask deployment</br>
 
-
+# Tools used</br>
 
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
