@@ -3,6 +3,10 @@ Project Contribution by Team Members
 American Chauhan - Machine Learning Model Building and API integration
 Rishabh Singla - Front End Development with JavaScript
 Ayush Tomar - Front End Improvement and flask deployment
+
+
+
+
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
