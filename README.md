@@ -1,8 +1,8 @@
-# Movie-Recommender-System
-Project Contribution by Team Members
-American Chauhan - Machine Learning Model Building and API integration
-Rishabh Singla - Front End Development with JavaScript
-Ayush Tomar - Front End Improvement and flask deployment
+# Movie-Recommender-System</br>
+Project Contribution by Team Members </br>
+American Chauhan - Machine Learning Model Building and API integration</br>
+Rishabh Singla - Front End Development with JavaScript</br>
+Ayush Tomar - Front End Improvement and flask deployment</br>
 
 
 
