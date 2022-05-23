@@ -1,4 +1,4 @@
-# Movie-Recommender-System</br>
+# Movie-Recommendatiion-System</br>
 Project Contribution by Team Members </br>
 American Chauhan - Machine Learning Model Building and API integration</br>
 Rishabh Singla - Front End Development with JavaScript</br>
